@@ -1,0 +1,10 @@
+{
+  "description": "Streamline debt collection processes with a professional CRM dashboard featuring modules for leads, clients, debtors, and HR, enhancing efficiency and organization.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
